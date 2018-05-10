@@ -1,6 +1,8 @@
 import java.util.Scanner;
 
-
+/*
+ * version de sergio
+ */
 public class Practica1 {
 	
 	 public static void main(String[] args) {
@@ -25,6 +27,8 @@ public class Practica1 {
 	
 	
 		System.out.print('\n');
+		
+		
 	}//for
 	
 }//main
